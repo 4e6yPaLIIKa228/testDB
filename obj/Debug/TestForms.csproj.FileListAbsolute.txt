@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\TestForms\bin\Debug\Database2.mdf
+C:\Users\Administrator\source\repos\TestForms\bin\Debug\Database2_log.ldf
+C:\Users\Administrator\source\repos\TestForms\bin\Debug\TestForms.exe.config
+C:\Users\Administrator\source\repos\TestForms\bin\Debug\TestForms.exe
+C:\Users\Administrator\source\repos\TestForms\bin\Debug\TestForms.pdb
+C:\Users\Administrator\source\repos\TestForms\obj\Debug\TestForms.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestForms\obj\Debug\TestForms.Form1.resources
+C:\Users\Administrator\source\repos\TestForms\obj\Debug\TestForms.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TestForms\obj\Debug\TestForms.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TestForms\obj\Debug\TestForms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestForms\obj\Debug\TestForms.exe
+C:\Users\Administrator\source\repos\TestForms\obj\Debug\TestForms.pdb
